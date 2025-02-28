@@ -6,6 +6,10 @@ Je suis **Alec Borel**, étudiant ingénieur en informatique spécialisé en int
 
 - **UQAC - Maîtrise Informatique spécialisé jeu vidéo**
   - Canada, Chicoutimi (2024 - 2025)
+  - Cours suivi :
+    - Production de jeu vidéo : production d'un jeu vidéo sur Unreal Engine 5 en suivant la méthodologie Agile.
+    - Math et physique appliqué au jeu vidéo : Implémentation de détection de collission et de gestion des forces pour des formes simples (plan, sphère, cube).
+    - Programmation réseau dans le jeu vidéo : Développement d'un jeu en réseau
 
 - **ENSIIE - École d'ingénieur spécialisation Interaction Numérique**
   - France, Évry (2022 - 2024)
